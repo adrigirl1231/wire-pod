@@ -624,4 +624,6 @@ fi
 # echo "6: Create wire-pod config file (change/add API keys)"
 # echo "(NOTE: You can just press enter without entering a number to select the default, recommended option)"
 # echo
-defaultLaunch
+defaultLaunch "6
+
+
